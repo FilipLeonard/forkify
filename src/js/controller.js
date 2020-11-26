@@ -138,6 +138,7 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
   console.log('Changes');
   console.log('Implementing new feature on new-branch');
+  console.log('Implementing newer feature on master branch');
 };
 
 init();
