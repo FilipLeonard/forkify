@@ -139,6 +139,7 @@ const init = function () {
   console.log('Changes');
   console.log('Implementing new feature on new-branch');
   console.log('Implementing newer feature on master branch');
+  console.log('Implementing final feature on master branch');
 };
 
 init();
