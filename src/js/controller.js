@@ -11,9 +11,9 @@ import bookmarksView from '../views/bookmarksView.js';
 import addRecipeView from '../views/addRecipeView.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 
-if (module.hot) {
-  module.hot.accept();
-}
+// if (module.hot) {
+//   module.hot.accept();
+// }
 
 ///////////////////////////////////////
 
