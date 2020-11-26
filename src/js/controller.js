@@ -137,6 +137,7 @@ const init = function () {
 
   addRecipeView.addHandlerUpload(controlAddRecipe);
   console.log('Changes');
+  console.log('Implementing new feature on new-branch');
 };
 
 init();
