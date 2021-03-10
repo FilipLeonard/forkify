@@ -8,6 +8,8 @@ https://forkifyleo.netlify.app/
 - written in plain JavaScript
 - follows MVC pattern
 - consumes [this REST API](https://forkify-api.herokuapp.com/) provided by the instructor
+- built with Parcel
+- _styles provided by the instructor_
 - app features:
   - recipe search, details and direction to original cooking website
   - recipe bookmark ('persisted' in local storage)
